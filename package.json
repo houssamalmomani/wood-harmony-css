@@ -1,0 +1,14 @@
+{
+	"name": "woodharmony",
+	"version": "1.0.0",
+	"engines": {
+		"node": "18.14.0"
+	},
+	"description": "landing page for wood harmony",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "houssam almomani",
+	"license": "ISC"
+}
